@@ -1,1 +1,3 @@
-# Olympic data visualization using tableau and power BI desktop
+# Olympic data visualization using visualization tools.
+
+Tools Used are : Tableau, PowerBI, Ms Excel and Qlikview
